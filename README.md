@@ -6,7 +6,7 @@
 
 ## Overview
 
-This Python script creates an eye-catching animation of a spinning top with a mesmerizing gradient background and a subtle reflection effect. It serves as a delightful visual demonstration and a beginner-friendly example of using the Pygame library to create simple animations.
+This Python script creates an eye-catching animation of a spinning top with a color background. It serves as a delightful visual demonstration and a beginner-friendly example of using the Pygame library to create simple animations.
 
 ## Features
 
